@@ -6,4 +6,4 @@ Laptop_User_SEBASTIAN
 la pc2 interactua con el codigo editable en el repositorio, 
 hay un detalle en los archivos de .docx no se pueden modificar directamente en la terminal 
 por ello es necesaio tener instalado GitHub en nuestra maquina windows,para las maquinas con 
-linux se accede mediante internet
+linux se accede mediante internet-
